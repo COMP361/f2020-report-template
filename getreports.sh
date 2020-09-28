@@ -1,6 +1,5 @@
 #! /bin/bash
-# (c) M.Schiedermeier, Oct 2019
-# This script does not work on Macos due to bash syntax changes introduced by apple for the iterator in for-loops. (Script coded for Ubuntu Linux)
+# (c) M.Schiedermeier, Oct 2019 / 2020
 # This script requires the git credentials to be set in ~/.netrc -> use syntax:
 #> machine github.com
 #> login kartoffelquadrat
